@@ -11,7 +11,7 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 * v[1.0](https://github.com/savelee/sencha-theming-tutorial/tree/master/extthemingapp) - Created by Lee Boonstra
 * Forked by Shikhir 
-* v2.0 - Added Ext.Window and Ext.Msg components. Changed default theme to "Yummy Chocolate" in save.scss file
+* v2.0 - Added Ext.Window and Ext.Msg components. Changed default theme to "Yummy Chocolate" in /src/sass/var/Application.scss file
 
 **Author** 
 
@@ -37,7 +37,7 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 2. Rename the src directory of this application to ThemeHelper and place it in your (Sencha Cmd workspace)[http://docs.sencha.com/cmd/6.x/workspaces.html] 
 3. Run the following command in the directory of this application: sencha app watch --fashion
 4. Load the page in your browser: http://localhost:1841/ThemeHelper
-5. Make changes to the Sass files located in the sencha-workspace/ThemeHelper/sass directory. Start by making changes to the Application.scss file.
+5. Make changes to the Sass files located in the sencha-workspace/ThemeHelper/sass/var directory. Start by making changes to the Application.scss file.
 6. Watch the browser as the page automatically reloads! 
 7. (optional) Use Sencha Inspector to make changes to the theme which will automatically save changes in the save.scss file
 
