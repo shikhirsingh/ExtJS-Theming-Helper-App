@@ -21,8 +21,9 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 **Dependencies to compile**
 
-* [Sencha Cmd 6.x+](https://www.sencha.com/products/extjs/cmd-download/) 
 * [Ext JS 6.x+](https://www.sencha.com/products/extjs/)
+* [Sencha Cmd 6.x+](https://www.sencha.com/products/extjs/cmd-download/) 
+* [Sencha Workspace](https://docs.sencha.com/cmd/6.x/workspaces.html) pre-configured with Ext JS 6.x+ located in workspace/ext 
 
 **Wait, I just want to see how this app looks without compiling**
 
@@ -35,7 +36,7 @@ Good News. You have three options!
 **Steps to use this application to theme along side Sencha Fashion**
 
 
-1. Ensure your Sencha Cmd version is greater than 6.1.1+
+1. Ensure your Sencha Cmd version installed is greater than 6.1.1+
 2. Rename the src directory of this application to ThemeHelper and place it in your (Sencha Cmd workspace)[http://docs.sencha.com/cmd/6.x/workspaces.html] 
 3. Run the following command in the directory of this application: sencha app watch --fashion
 4. Load the page in your browser: http://localhost:1841/ThemeHelper
@@ -48,6 +49,8 @@ Good News. You have three options!
 
 * Make sure your are placing the correct directory into your Sencha Cmd workspace. You need to put in just the src directory
 * Ensure your changes aren't being overridden in the save.scss file
+* Ensure your workspace/ext directory is running Ext JS 6.x (not earlier build)
+
 
 
 ## Disclaimer
