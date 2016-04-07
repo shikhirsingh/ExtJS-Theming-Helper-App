@@ -37,7 +37,7 @@ Good News. You have three options!
 
 
 1. Ensure your Sencha Cmd version installed is greater than 6.1.1+
-2. Rename the src directory of this application to ThemeHelper and place it in your (Sencha Cmd workspace)[http://docs.sencha.com/cmd/6.x/workspaces.html] 
+2. Rename the src directory of this application to ThemeHelper and place it in your [Sencha Cmd workspace](http://docs.sencha.com/cmd/6.x/workspaces.html)
 3. Run the following command in the directory of this application: sencha app watch --fashion
 4. Load the page in your browser: http://localhost:1841/ThemeHelper
 5. Make changes to the Sass files located in the sencha-workspace/ThemeHelper/sass/var directory. Start by making changes to the Application.scss file.
