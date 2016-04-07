@@ -26,7 +26,9 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 **Wait, I just want to see how this app looks without compiling**
 
-* A sample binary is provided in the /build directory. Download and double click the index.html file located here
+Good News. You have three options! 
+* Run it directly from github [here](https://rawgit.com/shikhirsingh/ExtJS-Theming-Helper-App/master/build/index.html)
+* A sample binary is provided in the /build directory. Download and double click the index.html
 * A screenshot are also included in the /screenshots folder
 
 
